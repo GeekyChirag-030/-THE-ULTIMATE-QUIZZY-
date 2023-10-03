@@ -1,0 +1,51 @@
+ Question ,Option A,Option B,Option C,Option D,Correct Answer,Difficulty Level ,Score for Right Answers
+What does WWW Stands for ?,A) Wide Web Wave,B) World Wide Web ,C) World Wave Web ,D) None,B,Easy,1
+What does HTML stand for ?,A) Hyper Text Markup Language,B) High Technical Markup Language,C) Hyperlink and Text Markup Language,D) Home Tool Markup Language,A,Easy ,1
+Which programming language is used for styling web pages ? ,A) HTML,B) JS,C) PHP,D) CSS,D,Easy,1
+Where the Hyper Text Markup Language is Exceuted ?,A) Compiler Software ,B) Browser,C) OS,D) None from Here,B,Easy ,1
+Who is the Founder of WWW ?,A) Bjarne Stroustrup ,B) Dennis Ritchie,C) Tim Berners Lee,D) Larry Wall,C,Easy,1
+CSS Stands for ?,A) Chrome Style System,B) Chrome Style Sheets ,C) Cascading Style Syetm,D) Cascading Style Sheets,D,Easy,1
+Who And When Found the HTML ?,A) Dennis Ritchie 1990,B) James Gosling 1920,C) Tim Berners Lee 1992,D) Tim Berners Lee 1993,D,Easy,1
+W3C Stands For ?,A) World Wide Wave Cascade,B) World Wave Web Cascade,C) World Wide Web Consortium ,D) World Wave Web Consortium,C,Easy,1
+On Which Protocal HTML Webpages Serves to client ?,A) SMTP,B) POP3,C) HTTP,D) None from Here,C,Easy,1
+What does HTTP Stands for ?,A) Hyper Transfer Term Protocol,B) Hyper Text Transfer Protocol ,C) Hyperlink Transfer Protocol,D) None,B,Easy,1
+What is Website ?,A) It is the Collection of Programs,B) It is the Collection of Instructions,C) It is Collection of Various Webpages,D) It is the Collection of Codes,C,Easy,1
+What is the Purpose for Creating Websites ?,A) To Provide Code to the Users,B) To Increase the Reusability of Code,C) To Increase Profits ,D) To Reach to the Large Amount of Customers through WWW,D,Easy,1
+Which Language is not of Web Development ?,A) HTML,B) JS,C) CSS,D) C,D,Easy,1
+What does XML Stands for ?,A) Extensible Markup Language,B) Extensive Markup Letter,C) Extensive Marked Language,D) None,A,Easy,1
+What is the Puprose of XML in Web Development ?,A) For Creation of Programs,B) For Creation of Users,C) For Transferring Data,D) For Creation of Webpages,C,Easy,1
+What is the Web Development ?,A) It is a way of Creating Instructions,B) It is a Way of Building and Maintaining Websites ,C) Way of Building Designs,D) Way of Creation of Profits ,B,Easy,1
+What is the purpose of CSS ?,A) To create dynamic web pages,B) To define the structure of a web page,C) To add interactivity to a web page,D) To style the appearance of a web page,D,Easy,1
+On Which Part HTML is based ?,A) Tag Based ,B) Functional,C) OOP,D) Short Words Based,D,Easy,1
+What Does the JS Stands for ?,A) Jet System,B) Java Script,C) Jack Script,D) Java Source,B,Easy ,1
+What does API Stands for ?,A) Application Pattern Iterlink,B) Application Programming Interface,C) Application Programming Interlink,D) Application Programming Integration,B,Easy,1
+To access the Web or Websites What thing you needs ?,A) Internet Connection,B) Program,C) Code,D) None,A,Easy,1
+What is Internet ?,A) Collection of Various Modules ,B) Collection of Various Instructions ,C) Collection of Various Electronic Devices or Computers that are Interconnected with each other for Exchanging of Data or Resources,D) Not Mentioned,C,Easy,1
+What does SMTP Stands for ?,A) Simple Markup Text Protocol,B) Simple Mail Tranfer Protocol,C) System Mail Transaction Protocol,D) Simple Mail Transfer Pattern,B,Easy,1
+What does HTTPS Stands for ?,A) Hyperlink Transfer Text Protocol System,B) Hyperlink Text Transfer Protocol System,C) Hyper Text Transfer Protocol Secure,D) Not mentioned,C,Easy,1
+What is the Difference Between Webpages and Websites ?,A) Webpages is the Subset of the Website whereas Website is the Superset for Webpages,B) Websites is the Subset of the Webpages whereas Webpages is the Superset for Websites,C) Both are Same ,D) None from Here,A,Easy,1
+How a tag can be used n HTML ?,A) tag name>>  <tagname>/,B) tagname<> </tagname>,C) <tagname> </tagname> ,D) <> tagname </tagname>,C,Easy Medium,2
+What is The Purpose of HTML ?,A) For Styling Webpages,B) For Making the Website Functionality,C) For Defining the Overall Structure of the Webpage ,D) For Acessing Data from Backend,C,Easy Medium,2
+What is Server or Web Server ?,A) That Creates the Websites,B) Web Server is a Computer Stores the Websites or Webpages and provides the services to the users/clinet when needed,C) That Manages the Websites,D) It is a vritual Computer which is not accessible ,B,Easy Medium,2
+What is the Client ?,A) A Client is a System Software,B) A Computer,C) A User,D) A Clinet is a Browser,D,Easy Medium,2
+Who is Resposible for the Making of Request to Server for Webpages ?,A) User,B) Clinet known as the Browser,C) Not a Valid Question,D) Not Mentioned,B,Easy Medium,2
+What is the Latest Version of HTML ?,A) XHTML,B) HTML4,C) XML,D) HTML5,D,Easy Medium,2
+What is the Latest Version of CSS ?,A) CSS1,B) CSS2,C)  CSS3,D) CSS4,C,Easy Medium,2
+Simple network management protocol uses which of the following port number ?,A) 161,B) 162,C) 163,D) 164,A,Easy Medium,2
+Among which of the following is HTML a subset ?,A) SGMC ,B) SGMT,C) SGMA,D) SGML,D,Easy Medium,2
+What does PHP Stands for ?,A) Program Hyper Processor,B) Hypertext Preprocessor,C) Programming Hyper Processor,D) Personal Home Page,B,Easy Medium,2
+What is PHP ?,A) Programming Language,B) Web Development Other name,C) Webpage,D) Browser,A,Easy Medium,2
+Who Developed the PHP ?,A) Larry Page,B) Mark Zuckerberg,C) Rasmus Lerdorf,D) Tim Berners-Lee,C,Easy Medium,2
+What are Types of Websites in Web Development ?,A) Static websites,B) Dynamic websites,C) Both static and dynamic websites,D) None of the above,C,Easy Medium,2
+What is the main Purpose of Making Static Websites ?,A) To create dynamic and interactive user experiences,B) To allow for easy content updates and management,C) To improve search engine optimization (SEO) and website performance,D) To rovide a cost-effective solution for simple informational websites,D,Easy Medium,2
+What is the Main Purpose of Making Dynamic Websites ?,A) To Add the Dynamic Functionality of in Websites like That Change According to the User's Interaction (login/ signup pages),B) To Enhance the Aesthetics and Visual Appeal of the Website,C) To Improve Search Engine Optimization (SEO) and Website Ranking,D) To Increase User Engagement and Provide Personalized Content,A,Easy Medium ,2
+Which is the Correct Way of XML Declaration Part in XML Documents ?,A) <?xml version=`1.0`?>,B) <?xml version='1.0' encoding='UTF-8'?>,C) <?xml version='1.1' encoding='UTF-8'?>,D) <?xml version='1.1'?>,B,Easy Medium,2
+What is the Extension for HTML Documents ?,A) .html,B) .ht,C) .htl,D) .txt,A,Easy Medium ,2
+What are the types of CSS ?,A) ID CSS ; Class CSS ; Element CSS,B) Cascading CSS ; Styling CSS ; Animation CSS,C) Inline CSS ;  Internal CSS ; External CSS,D) Responsive CSS ; Flexbox CSS ; Grid CSS,C,Easy Medium,2
+What is the Correct Way for Defining Inline CSS ?,A) Using the class attribute within an HTML tag,B) Using the style attribute within an HTML tag,C) Using the id attribute within an HTML tag.,D) Using the link tag in the head section of an HTML document,B,Easy Medium,2
+What is the Right Syntax for defining Inline CSS ?,A) <div stylesheet=``color: blue;``>,B) <div class=``blue``>,C) <div id=``blue``>,D) <div style=``color: blue;``>,D,Easy Medium,2
+Which is a Search Engine from these options?,A) Google ,B) Microsoft,C) Gooogle Chrome,D) Mozila Firefox,A,Easy Medium,2
+What does the SQL Stands for ?,A) Standard Query Language,B) Simple Query Language,C) Structured Query Language,D) Sequential Query Language,C,Easy Medium,2
+What does DBMS Stands for ?,A) Data Backup and Management System,B) Database Management System,C) Data Business Management System,D) Digital Business Management Service,B,Easy Medium,2
+What does JSON Stands for ?,A) Java Object Networking,B) JavaScript Object Networking,C) Java Object Notation,D) JavaScript Object Notation,D,Easy Medium,2
+What is JS ?,A) Browser,B) Markup Language,C) Programming Language,D) Operating System,C,Easy Medium,2

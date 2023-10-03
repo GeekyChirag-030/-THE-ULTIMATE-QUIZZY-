@@ -1,0 +1,51 @@
+ Question ,Option A,Option B,Option C,Option D,Correct Answer,Difficulty Level ,Score for Right Answers
+On What Computer or Digital System Works ,A) Binary ,B) Decimal,C) Hexadecical,D) None from Here,A,Easy,1
+What is C and Developed By ?,A) OS and Bill Gates,B) Programming language developed by Bjarne Stroustrup,C) Programming language developed by Larry Wall,D) C is a programming language developed by Dennis Ritchie,D,Easy,1
+Which programming language is commonly used for software development ?,A) C,B) Python,C) Java,D) PHP,C,Easy,1
+What does DSA stand for in software development ?,A) Data Source Architecture,B) Digital Security Algorithm,C) Data Structure and Algorithms,D) Distributed Systems Architecture,C,Easy,1
+What does API Stands for ?,A) Application Programming Interface,B) Advanced Programming Interface,C) Automated Program Integration,D) Algorithmic Programming Interface,A,Easy,1
+What is the output of the following code : printf('Hello World !'); ?,A) Error,B) Program Will Run Without Error But Nothing Will Print,C) Hello World!,D) None from  Here,A,Easy,1
+What is Data Structure ?,A) A way to organize and Structure data in memory,B) A hardware component used for data storage,C) A type of algorithm used in sorting data,D) A programming language used for data manipulation,A,Easy,1
+What does DBMS Stands for ?,A) Definebase Management Source,B) Database Management System,C) Database Manipulation System,D) Definebase Manipulation Source,B,Easy,1
+Purpose of Sorting over any List or Array ?,A) To arrange the elements in  any specifc order,B) To randomize the order of elements,C) To remove duplicate elements from the list,D) To reverse the order of elements,A,Easy,1
+What is the purpose of a primary key in a database table ?,A) It ensures data integrity,B) It provides indexing for faster retrieval,C) It establishes relationships between tables,D) It uniquely identifies each record in the table,D,Easy,1
+Which Unqiue Feature actually represents Python Programming Language ?,A) Data Types,B) Dynamically Typed and Easy,C) Control Statements,D) None from Here,B,Easy,1
+Which data structure uses a Last-In-First-Out (LIFO) approach ?,A) Queue,B) Array,C) Tree,D) Stack,D,Easy,1
+What is the purpose of version control systems in software development ?,A) To track changes in source code,B) To manage project schedules,C) To perform automated testing,D) To generate documentation,A,Easy,1
+What is the difference between procedural programming and object-oriented programming ?,A) Procedural programming is faster than object-oriented programming,B) Procedural programming uses classes while object-oriented programming uses functions,C) Procedural programming focuses on functions while object-oriented programming focuses on objects,D) Procedural programming is used for web development while object-oriented programming is used for desktop applications,C,Easy,1
+Output:String name = ``John``; System.out.println(``Hello``  + name); ?,A) Hello John,B) Hello name,C) Error,D) Undefined,A,Easy,1
+BST Stands for ?,A) Break Search Term,B) Binary Search Tree,C) Break Search Tree,D) Binary Search Term,B,Easy,1
+Which Sorting is also Called Compare and Swap Sort ?,A) Bubble,B) Quick,C) Merge,D) Insertion,A,Easy,1
+DBA Stands for ?,A) Data Binary Access,B) Database Access,C) Database Administrator,D) None from Here,C,Easy,1
+Which is Low Low Level Langauge ?,A) Binary Langauge,B) C Language,C) Assembly Language,D) None from Here,A,Easy,1
+Which programming language is commonly used for system-level programming ?,A) Java,B) Python,C) C,D) JavaScript,C,Easy,1
+Who is the Founder of Java ?,A) Dennis Ritchie,B) James Gosling,C) Larry Wall,D) None from Here,B,Easy,1
+OS Stands for ?,A) Operating System,B) Operational System,C) Operational Source,D) Operating Source,A,Easy,1
+OS Comes under What Category ?,A) Application Software,B) Language Translator,C) Language System,D) System Software,D,Easy,1
+Which is a OS ?,A) Unix,B) C and Unix,C) C,D) Unix and Linux,D,Easy,1
+What is the correct variable declaration for an integer in C ?,A) x = int;,B) int = x;,C)  int x;,D) integer = x;,C,Easy,1
+Which database model is based on the concept of tables ?,A) Hierarchical model,B) Relational model,C) Network model,D) Object-oriented model,B,Easy Medium,2
+Which Data Structure is also Called a List ?,A) Tree,B) Stack,C) Queue,D) Array,D,Easy Medium,2
+Function in Programming is a ?,A) Statement,B) Block of Code known as subroutine ,C) Varible,D) None from Here,B,Easy Medium,2
+Which is Correct Way to print something in C++ ?,A) cout'Hello';,B) cout<<'Hello'; ,C) printf('Hello'); ,D) cout<<``Hello``;,D,Easy Medium,2
+What Operators are the Arithmetic Operators ?,A) Mathematical Operators,B) Logic System Operators ,C) Bit Level Operators,D) Comparision Level Operators,A,Easy Medium,2
+What Statement True About String ?,A) String is a Character ,B) String is a Integer,C) String Considered as the Collection of Characters,D) String Considered as the Collection of Integers,C,Easy Medium,2
+Which is Not a Operating System ?,A) Unix,B) Linux,C) DOS,D) None from Here,D,Easy Medium,2
+Which is Not a Preemptive Datatype in C ?,A) Integer,B) Array,C) Float,D) Double,B,Easy Medium,2
+Which Data Structure having no sequence for Storing Data ?,A) Array,B) Queue,C) Double Ended-Q,D) None ,D,Easy Medium,2
+Which Data Structure is called Non - Linear Data Structure Type ?,A) That does not have the Proper order for Storing and Accessing Data,B) That have the Proper order for Storing and Accessing Data,C) That Easily Accessible,D) That Not Easily Accessible,A,Easy Medium,2
+Which Data Structure is called Linear Data Structure Type ?,A) That does not have the Proper order for Storing and Accessing Data,B) That have the Proper order for Storing and Accessing Data,C) That Easily Accessible,D) That Not Easily Accessible,B,Easy Medium,2
+Which is the Correct Example for Assembly Language Code ?,A) mov a b,B) Mov A,C) ADD B,D) None ,C,Easy Medium,2
+RAID Stands for ?,A) Redundant Array of Independent Disks,B) Random Access and Integrated Data,C) Reliable Array of Inexpensive Drives,D) Rapid Access and Intelligent Data,A,Easy Medium,2
+Difference Between the C and C++ ?,A) C and C++ are Same ,B)  C is a Functional Programming and C++ is a Object Oriented Programming Language,C) C is High Level and C++ is Not High Level Language,D) None,B,Easy Medium,2
+In C and C++ What is Var++ /  Var -- and ++Var / --Var ?,A) ++Var/--Var is Post Increment/Decrement and Var++/Var-- is Pre Increment/Decrement,B) Arithemetic Operator,C) ++Var/--Var is Pre Increment/Decrement and Var++/Var-- is Post Increment/Decrement,D) Bitwise Operator,C,Easy Medium,2
+The Data Structure that Implement in the Lines of Banks  Railway Stations  and At Many Public Places ?,A) Stack ,B) BST,C) Array,D) Queue,D,Easy Medium,2
+The Data Structure that Follows the FIFO Principle (First-In-First-Out) ?,A) Queue,B) Array,C) Stack ,D) None,A,Easy Medium,2
+Tree is a Non Linear Data Structure ?,A) Yes,B) No,C) Not a Valid Question,D) Not a Valid Option to Answer,A,Easy Medium,2
+In What Another Non-Preemptive Type in C Except Array ?,A) Float,B) Integer,C) Structure,D) None,C,Easy Medium,2
+Python was Inroduced though inspiration of which Animal ?,A) Lion,B) Cheetah,C) Kangaroo,D) Snake,D,Easy Medium,2
+Java was Inroduced though inspiration of which Thing ?,A) Apple,B) Coffee,C) Tea,D) Snake,B,Easy Medium,2
+What is Compiler in case of Programming ?,A) A Language Translator Converts High Level Langauge to Machine Level Langauge,B) A Language Translator Converts Low Level Langauge to High Level Langauge,C) A Language Translator Converts Middle Level Langauge to Machine Level Langauge,D) Machine Level Langauge,A,Easy Medium,2
+What is the role of an IDE (Integrated Development Environment) in software development ?,A) To secure network connections,B) To optimize database queries,C) To manage hardware resources,D) To provide a user-friendly interface for programming,D,Easy Medium,2
+What is Software ?,A) Collections of Instructions writing in a High Level Language,B) Collection of Instructions Writing in Low Level Language,C) Collection of Various Programs Writing in a High Level Language,D) None ,C,Easy Medium,2
+What is a Program ?,A) A Set of Low Level Instructions,B) A Set of High Level Instructions,C) A Set of Low Level Programs ,D) A Set of Low Level Programs,B,Easy Medium,2
