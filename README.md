@@ -11,7 +11,7 @@
 
 ![S2](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/61bf1bae-c39d-4262-8054-bff022db9cea)
 
-<i><b><h4>---> For Registration User Have To Press 2 and If User Was Enters Any UnMatched Choice Then Also Having the vAlidation that Handles that Unmatch Level of Inputs of User. </h4></b></i>
+<i><b><h4>---> For Registration User Have To Press 2 and If User Enters Any Other Unmatched Choice Then Also Having the vAlidation that Handles that Unmatch Level of Inputs of User. </h4></b></i>
 
 ![S3](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/caf119b2-3c6b-4e3e-a475-43ce37520b34)
 
