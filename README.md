@@ -19,7 +19,7 @@
 
 ![S4](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/ba95afff-6b31-4275-9a7a-2246b7a79371)
 
-<i><b><h4>---> Npw When User Enters the Option Y/y for Registration Then Asking All the Necessary Details from the USer Such as : <ul><br> <li> Name of the User (Having Proper Validation For Invalid Charcaters in Name)</li> </ul></h4></b></i>
+<i><b><h4>---> Now When User Enters the Option Y/y for Registration Then Asking All the Necessary Details from the User for Registration Such as : <ul><br> <li> Name of the User (Having Proper Validation For Invalid Charcaters in Name)</li> </ul></h4></b></i>
 
 ![S5](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/03964941-3df6-411e-afa7-43b125097603)
 
