@@ -7,6 +7,8 @@
 
 ![S1](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/1b2c7286-af50-4c82-8dc2-2fa71e0076e0)
 
+<i><b><h4>---> This is the Main Interface that User Will See After Open or Start the Application. In This we Actually Asking the Choice From the Main Menu from User</h4></b></i>
+
 ![S2](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/61bf1bae-c39d-4262-8054-bff022db9cea)
 
 ![S3](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/caf119b2-3c6b-4e3e-a475-43ce37520b34)
