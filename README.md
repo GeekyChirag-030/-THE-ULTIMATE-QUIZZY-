@@ -35,7 +35,7 @@
 
 ![S8](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/68c9ef72-08ac-4be5-90b3-f987696052ac)
 
-<i><b><h4> For LogIn User Provide Their Credentails Either Username and Password or Either Unique UserID and Password</h4></b></i>
+<i><b><h4>---> For LogIn User Provide Their Credentails Either Username and Password or Either Unique UserID and Password</h4></b></i>
 
 ![S9](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/d42157b0-b5b4-4620-8bea-ca9f9fb8e070)
 
@@ -43,9 +43,15 @@
 
 ![S10](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/75ec06e1-3964-48fc-a194-7eee3edeca3b)
 
+<i><b><h4>---> Now Ask the Choice from User By Displaying Submenu, Assume User Wants to Start the Quiz then It Enters 1 Now Processing is Started Now.  </h4></b></i>
+
 ![S11](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/25ab2c84-ca11-433e-9cdc-c14a6f7e2b39)
 
+<i><b><h4>---> Now Asking the Domain From the User In Which User Want to Play the Quiz This time </h4></b></i>
+
 ![S12](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/b86596b6-8ee8-4d1a-8d71-56b505618e53)
+
+<
 
 ![S13](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/e6f8f567-020c-4d24-b12e-4c5b561a4aea)
 
