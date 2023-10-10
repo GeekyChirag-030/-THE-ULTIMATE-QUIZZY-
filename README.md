@@ -19,7 +19,7 @@
 
 ![S4](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/ba95afff-6b31-4275-9a7a-2246b7a79371)
 
-<i><b><h4>---> Now When User Enters the Option Y/y for Registration Then Asking All the Necessary Details from the User for Registration Such as : <ul><br> <li> Name of the User (Having Proper Validation For Invalid Charcaters in Name)</li> </ul></h4></b></i>
+<i><b><h4>---> Now When User Enters the Option Y/y for Registration Then Asking All the Necessary Details from the User for Registration Such as : <ul><br> <li> Name of the User (Having Proper Validation For Invalid Charcaters in Name)</li><li>Username of the User , Basically a Valid Working Email of the User . (Username Also Have the Proper Validation In It Like Valid SMTP,Valid Format, Valid Things Must Have in Username) </li><li>Password of the User's Personilized account (Validation Of Must Have Minimum 8 Charcaters and Max 28 Charcaters Long and It Have a Uppercase, A Special Charcater and a Numeric Digit Also In It.</li> </ul></h4></b></i>
 
 ![S5](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/03964941-3df6-411e-afa7-43b125097603)
 
