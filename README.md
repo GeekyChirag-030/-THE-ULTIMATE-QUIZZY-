@@ -47,7 +47,7 @@
 
 ![S11](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/25ab2c84-ca11-433e-9cdc-c14a6f7e2b39)
 
-<i><b><h4> </h4></b></i>
+<i><b><h4>---> Now Processing is Going On and After Some Time Ask the Domain Choice Fom User in Which They Wanna Paly Quiz.</h4></b></i>
 
 ![S12](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/b86596b6-8ee8-4d1a-8d71-56b505618e53)
 
@@ -55,13 +55,22 @@
 
 ![S13](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/e6f8f567-020c-4d24-b12e-4c5b561a4aea)
 
+<i><b><h4>---> Now After the Processing That Domain Releated Questions is Starting Disply To the User One By One , Rules for Each Question as Follows: <br><ul><br><li> User Must Have To Give the Answer of the Question in the Time Limit of 30 Seconds , And If User Will Not ABle Then the Score for thet Question Will Not Given to the User.</li><li> Each and Every Question have a specifc Score And If User able to Answer the Question By Enter the Right Answer Option then  Anly Score For That Question Will Got By User. </li><li> Each and Every Question has a Deifficulty Level and According to the Difficulty Level of the Question Scpres Will Be Given to the User. </li><li> After Asking Each Question Feedback of the Each Question is Provided Like What's the Right Option , Your Answer is Wrong , Right or Time Reached and the Also Ask About You Wanna Continue the Quiz Further or Not.</ul></h4></b></i>
 ![S14](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/ab3552ba-4fc0-49ad-b9a6-a90307942f2d)
+
+<i><b><h4>---> Providing the Feedback of the Question to User Here. </h4></b></i>
 
 ![S15](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/1616b725-5976-4219-b509-1ce670819611)
 
+<i><b><h4>---> If User Wanna Continue Further then Again Ask a Question and Same Process is Repeated that Mentioned Above. </h4></b></i>
+
 ![S16](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/0ca1ed9a-3d33-4294-a3ec-1ed7c32261c3)
 
+<i><b><h4>---> When User Don;t Want To Continue the Quiz Further then Automatically It Will Ended Ater Given a Dedicated Feedback to the Whole Quiz, and This is Time When Actually Scores and Domain Stores as Last Interested Domain and Last Achieved Scores in Backend , and If the User Was New LoggediIn User Then Also Now Status is Update and User Becomes the returned LoggedIn User from Next Time. </h4></b></i>
+
 ![S17](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/7bd761d4-a1c1-4fb7-a51d-983dfdfbbc4e)
+
+<i><b><h4>---> See Above When you LoggedIn next Time It Remembers You Automatically and Give Grettings To You By Your Name and Also Display Your Last Achived Scores & Last Interested Domain of the Quiz You had Played Last Time. </h4></b></i>
 
 
 
