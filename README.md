@@ -4,30 +4,30 @@ THE ULTIMATE QUIZZY
 
 Welcome to 'THE ULTIMATE QUIZZY' – your gateway to a thrilling world of computer science and engineering knowledge. 🚀
 
-Project Summary
+*Project Summary*
 'THE ULTIMATE QUIZZY' is a captivating console-based quiz application built with C programming. This project is designed to cater to computer science enthusiasts, whether you're a novice looking to bolster your foundational knowledge or an experienced programmer ready to tackle some challenging questions.
 
-Key Features:
+*Key Features*
 
-User Registration and Login: 'THE ULTIMATE QUIZZY' offers a user-friendly registration and login system. Create an account securely, and sign in to embark on your quiz adventure.
+-> User Registration and Login: 'THE ULTIMATE QUIZZY' offers a user-friendly registration and login system. Create an account securely, and sign in to embark on your quiz adventure.
 
-Domain Selection: Choose your preferred domain of interest, ensuring that the quiz only serves questions related to your selected domain.
+-> Domain Selection: Choose your preferred domain of interest, ensuring that the quiz only serves questions related to your selected domain.
 
-Randomized Questions: To keep things fresh and exciting, questions are randomly chosen from your chosen domain every time you start a new quiz session.
+-> Randomized Questions: To keep things fresh and exciting, questions are randomly chosen from your chosen domain every time you start a new quiz session.
 
-Time-Limited Questions: Each question is posed with a time limit, adding an extra layer of excitement. If you don't respond in time, the question won't impact your score.
+-> Time-Limited Questions: Each question is posed with a time limit, adding an extra layer of excitement. If you don't respond in time, the question won't impact your score.
 
-Instant Feedback: After each question, you'll receive immediate feedback on your answer. Discover if you were correct, your score, and whether you answered within the time limit.
+-> Instant Feedback: After each question, you'll receive immediate feedback on your answer. Discover if you were correct, your score, and whether you answered within the time limit.
 
-Comprehensive Coverage: 'THE ULTIMATE QUIZZY' covers a broad range of concepts in computer science, including structures, file handling, pointers, and more, making it an invaluable resource for knowledge seekers.
+-> Comprehensive Coverage: 'THE ULTIMATE QUIZZY' covers a broad range of concepts in computer science, including structures, file handling, pointers, and more, making it an invaluable resource for knowledge seekers.
 
-User-Friendly Interface: With an intuitive menu-driven interface, navigation and interaction are straightforward and enjoyable.
+-> User-Friendly Interface: With an intuitive menu-driven interface, navigation and interaction are straightforward and enjoyable.
 
-Additional Features:
+*Additional Features*
 
-Validation: The project incorporates robust validation mechanisms, ensuring user inputs and interactions are error-free.
+-> Validation: The project incorporates robust validation mechanisms, ensuring user inputs and interactions are error-free.
 
-User Tracking: The application keeps user profiles and records whether a user is returning or new. This is accomplished through 'Login_Status' and the associated data in 'login_status.csv'.</pre>
+-> User Tracking: The application keeps user profiles and records whether a user is returning or new. This is accomplished through 'Login_Status' and the associated data in 'login_status.csv'.</pre>
 </h4>
 
 <h1>**A Sequence of Pictures of the Project**</h1>
