@@ -73,6 +73,13 @@
 <i><b><h4>---> See Above When you LoggedIn next Time It Remembers You Automatically and Give Grettings To You By Your Name and Also Display Your Last Achived Scores & Last Interested Domain of the Quiz You had Played Last Time. </h4></b></i>
 
 
+<h3><b>Ready to test your knowledge and explore the fascinating world of computer science and engineering? Dive into 'THE ULTIMATE QUIZZY' by following these instructions in the project's documentation.
+
+Enjoy your journey of discovery!
+Best Regards, </b></h3>
+
+<i><h3><style 'bgcolor':"red";>~Chirag Gaba</h3></i>
+
 
 
 
