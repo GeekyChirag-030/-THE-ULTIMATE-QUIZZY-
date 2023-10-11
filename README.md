@@ -47,11 +47,11 @@
 
 ![S11](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/25ab2c84-ca11-433e-9cdc-c14a6f7e2b39)
 
-<i><b><h4>---> Now Asking the Domain From the User In Which User Want to Play the Quiz This time </h4></b></i>
+<i><b><h4> </h4></b></i>
 
 ![S12](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/b86596b6-8ee8-4d1a-8d71-56b505618e53)
 
-<
+<i><b><h4>---> Now Asking the Domain From the User In Which User Want to Play the Quiz This time </h4></b></i>
 
 ![S13](https://github.com/GeekyChirag-030/THE_ULTIMATE_QUIZZY/assets/96729663/e6f8f567-020c-4d24-b12e-4c5b561a4aea)
 
