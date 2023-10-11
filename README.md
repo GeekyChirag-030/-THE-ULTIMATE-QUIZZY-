@@ -78,7 +78,7 @@
 Enjoy your journey of discovery!
 Best Regards, </b></h3>
 
-<i><h3><style 'bgcolor':"red";>~Chirag Gaba</h3></i>
+<i><h3>~Chirag Gaba</h3></i>
 
 
 
